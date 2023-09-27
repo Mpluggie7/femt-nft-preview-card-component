@@ -18,6 +18,8 @@
 body {
   font-family: "Outfit", sans-serif;
   background-color: var(--Very_dark_blue_main_BG);
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;

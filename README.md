@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [femt-nft-preview-card-component](https://your-live-site-url.com)
+- Live Site URL: [femt-nft-preview-card-component](https://mpluggie7.github.io/femt-nft-preview-card-component/)
 
 ## My process
 
@@ -49,7 +49,6 @@ Users should be able to:
 I've learned how to hover the picture and get another picture come overlay the before.
 I've used the opacity 0 for hide the overlay and 1 for show the overlay.
 The Default opacity is 0 for overlay when hover is 1.
-
 
 ```css
 .viewImgDiv {
